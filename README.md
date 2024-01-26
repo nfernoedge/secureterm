@@ -18,5 +18,7 @@ python secureterm.py [-n N]
 
 # Acknowledgements
 The two wordlists used were taken from:
+
 Nouns -  https://www.desiquintans.com/nounlist
+
 Adjectives - https://gist.github.com/hugsy/8910dc78d208e40de42deb29e62df913

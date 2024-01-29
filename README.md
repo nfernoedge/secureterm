@@ -1,6 +1,8 @@
 # secureterm
 Some scripts to practice programming
 
+## Load In Collab!
+https://colab.research.google.com/github/nfernoedge/secureterm/blob/main/secureterm.ipynb
 
 Secureterm is designed to generate random returns of an adjective, a noun, and 3 numbers. There are lots of use cases for this such as generating semi-strong passwords for password hash practice.
 
